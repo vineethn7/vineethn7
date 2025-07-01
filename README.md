@@ -93,7 +93,8 @@
 ### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineethn7&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=orange" alt="GitHub Streak Stats" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=vineethn7&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,Contributions" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vineethn7&theme=onedark&no-frame=true&margin-w=10&row=1" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vineethn7&show_icons=true&theme=dark" />
   <br>
